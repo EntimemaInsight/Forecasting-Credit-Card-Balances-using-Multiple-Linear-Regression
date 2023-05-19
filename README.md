@@ -1,1 +1,1 @@
-# Forecasting-Credit-Card-Balances-using-Regression-Analysis-Python-Modell
+# Forecasting-Credit-Card-Balances-using-Regression-Analysis-Python-Model
