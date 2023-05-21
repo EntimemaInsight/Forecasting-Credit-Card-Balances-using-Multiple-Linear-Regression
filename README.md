@@ -30,24 +30,27 @@ The project follows these steps:
 
 - Use the regression model coefficients to predict credit card balances for new data.
 
-Dataset Description
+## Dataset Description
 
 The dataset consists of the following variables:
 
-1. CID: Client Identification Number
-2. Limit: Credit limit
-3. Age: Age in years
-4. Gender: Male or Female
-5. Married: Yes or No
-6. Education: Education level
-7. Income: Income in EUR
-8. Balance: Credit card balance in EUR
-9. Results
+- CID: Client Identification Number
+- Limit: Credit limit
+- Age: Age in years
+- Gender: Male or Female
+- Married: Yes or No
+- Education: Education level
+- Income: Income in EUR
+- Balance: Credit card balance in EUR
+- Results
 
-## The analysis revealed the following key findings:
+## Key Insights:
 
 1. Credit limit (Limit) is positively correlated with credit card balance (Balance), indicating that higher credit limits are associated with higher balances.
 2. Income has a positive relationship with credit card balance, suggesting that individuals with higher incomes tend to have higher balances.
 3. Age shows a weak positive correlation with credit card balance, indicating a slight increase in balance as individuals grow older.
 4. Gender and marital status do not significantly impact credit card balances.
+
+## Credits
+This project was created by Aleksandar Dimitrov and is licensed under the MIT License. If you have any questions or comments, feel free to contact me at alexi.zein@gmail.com.
 
