@@ -44,12 +44,10 @@ The dataset consists of the following variables:
 - Balance: Credit card balance in EUR
 - Results
 
-## Key Insights:
+## Prediction Results:
 
-1. Credit limit (Limit) is positively correlated with credit card balance (Balance), indicating that higher credit limits are associated with higher balances.
-2. Income has a positive relationship with credit card balance, suggesting that individuals with higher incomes tend to have higher balances.
-3. Age shows a weak positive correlation with credit card balance, indicating a slight increase in balance as individuals grow older.
-4. Gender and marital status do not significantly impact credit card balances.
+Using the developed regression model, we made predictions for new data based on the coefficients obtained. The df_new DataFrame contains predictor variables (Income, Age, Gender, and Married) for which the credit card balance is predicted. The predictions were added as a new column named "Balance" in the df_new DataFrame. 
+These predicted credit card balances are based on the provided predictor variables (Income, Age, Gender, and Married). Please note that these predictions are specific to the model and dataset used in this project. Actual results may vary based on different datasets and models.
 
 ## Credits
 This project was created by Aleksandar Dimitrov and is licensed under the MIT License. If you have any questions or comments, feel free to contact me at alexi.zein@gmail.com.
