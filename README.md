@@ -1,4 +1,4 @@
-# Forecasting-Credit-Card-Balances-using-Regression-Analysis-Python-Model
+# Forecasting-Credit-Card-Balances-using-Multiple-Linear-Regression
 This project aims to analyze a dataset containing information from 29,819 credit card holders and develop a predictive model to estimate a cardholder's credit card balance based on their characteristics. The analysis provides insights into the factors influencing credit card balances and their significance for credit card companies.
 
 ## Project Objective
